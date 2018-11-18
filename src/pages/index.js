@@ -1,3 +1,3 @@
-import React from "react"
+import React from 'react'
 
-export default () => <div>Hello world!</div>
+export default () => <div>The <i>midvinter</i> is coming...</div>
