@@ -1,3 +1,5 @@
 import React from 'react'
 
-export default () => <div>The <i>midvinter</i> is coming...</div>
+import Header from '../components/Header'
+
+export default () => <div><Header /></div>
