@@ -14,8 +14,8 @@ export default ({ children }) =>
     <Helmet
       title={'midvinter.tv är ett kreativt kollektiv i Göteborg'}
       meta={[
-        { name: 'description', content: 'sample description' },
-        { name: 'keywords', content: 'kortfilm Göteborg Brännpunkt Novemberfestivalen' } // eslint-disable-line max-len
+        { name: 'description', content: 'midvinter är ett kreativt kollektiv och produktionsbolag i Göteborg med fokus på musikvideo och content' }, // eslint-disable-line max-len
+        { name: 'keywords', content: 'kortfilm produktionsbolad musikvideo Göteborg Brännpunkt Novemberfestivalen' } // eslint-disable-line max-len
       ]}
       link={[
         { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }, // eslint-disable-line max-len
