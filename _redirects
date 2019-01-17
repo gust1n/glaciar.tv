@@ -1,5 +1,0 @@
-# Redirect domain aliases to primary domain
-https://www.midvinter.tv/* https://www.glaciar.tv/:splat 301!
-
-# Optional: Redirect default Netlify subdomain to primary domain
-https://midvinter.netlify.com/* https://www.glaciar.tv/:splat 301!
