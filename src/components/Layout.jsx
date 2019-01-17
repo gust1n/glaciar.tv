@@ -12,9 +12,9 @@ const Layout = styled.div`
 export default ({ children }) =>
   <Layout>
     <Helmet
-      title={'midvinter.tv är ett kreativt kollektiv i Göteborg'}
+      title={'glaciär.tv är ett kreativt kollektiv i Göteborg'}
       meta={[
-        { name: 'description', content: 'midvinter är ett kreativt kollektiv och produktionsbolag i Göteborg med fokus på musikvideo och content' }, // eslint-disable-line max-len
+        { name: 'description', content: 'glaciär.tv är ett kreativt kollektiv och produktionsbolag i Göteborg med fokus på musikvideo och content' }, // eslint-disable-line max-len
         { name: 'keywords', content: 'kortfilm produktionsbolad musikvideo Göteborg Brännpunkt Novemberfestivalen' } // eslint-disable-line max-len
       ]}
       link={[

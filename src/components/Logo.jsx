@@ -8,4 +8,4 @@ const Wrapper = styled.span`
   color: #fff;
 `
 
-export default () => <Wrapper>midvinter.</Wrapper>
+export default () => <Wrapper>glaciär.</Wrapper>
